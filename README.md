@@ -37,7 +37,6 @@ I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineer
 - :seedling: Exploring robotics, industrial control and automation
 
 - :zap: In my spare time, I take part in Data Science competitions on [Zindi](https://zindi.africa/). Best Rank: 52. View [profile](https://zindi.africa/users/Nkosana_Daniel)
-- Fun Fact: :heart_eyes:
 
 ---
 
@@ -66,7 +65,11 @@ I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineer
 ---
 
 <details>
-  <summary> :fire: My Stats </summary>
+  
+  <summary> 
+    <h3> :fire: My Stats </h3>
+  </summary>
+  
   <img align="left" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Nkosana-263" />
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nkosana-263&count_private=true&show_icons=true&theme=transparent" />
 
