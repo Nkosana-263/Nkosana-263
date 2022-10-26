@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="ninja-coder-badge.png" width="100"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/nkosana-mlandu/">
@@ -29,8 +29,8 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### About Me :
+I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineering, from Zimbabwe :zimbabwe:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
