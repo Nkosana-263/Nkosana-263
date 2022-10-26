@@ -32,13 +32,11 @@
 ### About Me :
 I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineering, from Zimbabwe :zimbabwe:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm a Machine Learning enthusiast, passionate about building innovative, ethical and efficient AI solutions to real world problems.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring robotics, industrial control and automation
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time, I take part in Data Science competitions on [Zindi](https://zindi.africa/). Best Rank: 52. View [profile](https://zindi.africa/users/Nkosana_Daniel)
 
 ---
 
