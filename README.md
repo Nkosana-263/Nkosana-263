@@ -29,7 +29,7 @@
 
 ---
 
-### About Me :
+### A little bit about
 I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineering, from Zimbabwe :zimbabwe:
 
 - :telescope: I'm a Machine Learning enthusiast, passionate about building innovative, ethical and efficient AI solutions to real world problems.
@@ -40,7 +40,7 @@ I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineer
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -64,10 +64,10 @@ I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineer
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nkosana-263)](https://git.io/streak-stats)
 
-<!-- [![Nkosana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nkosana-263&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Nkosana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nkosana-263&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkosana-263)](https://github.com/anuraghazra/github-readme-stats) -->
 
