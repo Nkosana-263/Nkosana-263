@@ -36,6 +36,11 @@ I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineer
 
 - :seedling: Exploring robotics, industrial control and automation
 
+  <div align="center">
+    <img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif"/>
+  </div>
+    
+
 - :zap: In my spare time, I take part in Data Science competitions on [Zindi](https://zindi.africa/). Best Rank: 52. View [profile](https://zindi.africa/users/Nkosana_Daniel)
 
 ---
