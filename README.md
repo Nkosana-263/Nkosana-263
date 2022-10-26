@@ -29,14 +29,15 @@
 
 ---
 
-### A little bit about
+### A little bit about me
 I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineering, from Zimbabwe :zimbabwe:
 
 - :telescope: I'm a Machine Learning enthusiast, passionate about building innovative, ethical and efficient AI solutions to real world problems.
 
 - :seedling: Exploring robotics, industrial control and automation
 
-- :zap: In my free time, I take part in Data Science competitions on [Zindi](https://zindi.africa/). Best Rank: 52. View [profile](https://zindi.africa/users/Nkosana_Daniel)
+- :zap: In my spare time, I take part in Data Science competitions on [Zindi](https://zindi.africa/). Best Rank: 52. View [profile](https://zindi.africa/users/Nkosana_Daniel)
+- Fun Fact: :heart_eyes:
 
 ---
 
@@ -64,10 +65,11 @@ I am an Engineering undergrad, majoring in Industrial and Manufacturing Engineer
 
 ---
 
-### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nkosana-263)](https://git.io/streak-stats)
-
-[![Nkosana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nkosana-263&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary> :fire: My Stats </summary>
+  <img align="left" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Nkosana-263" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nkosana-263&count_private=true&show_icons=true&theme=transparent" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nkosana-263)](https://github.com/anuraghazra/github-readme-stats) -->
-
+  
+</details>
